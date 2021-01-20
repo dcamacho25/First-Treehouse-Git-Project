@@ -1,8 +1,8 @@
 ## Treehouse
 
 
-This repo is forall my course files completed through teamtreehouse.com
+This repo is for all my course files completed through teamtreehouse.com
 
-Checkout my treehouse profile www.teamtreehouse.com
+Also checkout my Treehouse profile here.
 
-Thank you!
+![](https://cf.bstatic.com/images/hotel/max1024x768/263/263835412.jpg)
